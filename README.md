@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFD2_OL0cfMqA/profile-displaybackgroundimage-shrink_350_1400/0/1673694471776?e=1682553600&v=beta&t=LccATQBRkQ3--wdCRujgWWtumY_tMSsrHuP535k7M3U)]
+![MasterHead](https://i.ibb.co/5K0YJRn/Black-Minimal-Motivation-Quote-Linked-In-Banner.png)
 <h1 align="center">Hi 👋, I'm Devesh Agarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"
